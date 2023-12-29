@@ -1,6 +1,6 @@
 # 🕵🏻‍♀️ A propos de moi:
 - Salut 👋 je suis DownSecurity !
-- 🌱 J'apprende actuellement l'informatique quantique et je passe mon CHE dans quelques temps...
+- 🌱 J'apprende actuellement l'informatique quantique et je passe mon CEH dans quelques temps...
 - ✅ Je maîtrise déja le Python, Javascript, C, Html, Css, Php et plein d'autre language !
 
 # 📊 GitHub Stats:
